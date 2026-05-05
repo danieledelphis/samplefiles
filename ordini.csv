@@ -1,0 +1,17 @@
+id_ordine,data_ordine,id_fornitore,importo,stato
+101,2024-01-15,1,250.00,consegnato
+102,2024-02-03,2,1800.50,in attesa
+103,2024-02-30,3,420.75,consegnato
+104,2024-03-10,4,310.00,consegnato
+104,2024-03-12,1,175.00,in attesa
+105,2024-03-20,5,950.00,consegnato
+106,2024-04-01,99,620.00,annullato
+107,15/04/2024,2,890.00,consegnato
+108,2024-04-18,7,1100.00,consegnato
+109,2024-05-02,3,       -50.00,reso
+110,2024-05-10,4,300.00,consegnato
+111,2024-05-22,5,675.50,in attesa
+112,2024-06-05,6,430.00,consegnato
+113,2024-06-12,2,0.00,consegnato
+114,2024-06-20,7,1500.00,in attesa
+115,2024-06-28,1,220.00,consegnato
