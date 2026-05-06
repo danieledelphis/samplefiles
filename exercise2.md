@@ -25,12 +25,6 @@ docker compose up -d
 ## Step 2 — Connettersi al db
 
 ```bash
-./mariadb.sh
-```
-
-Oppure manualmente:
-
-```bash
 docker exec -it quickshop mariadb -u quickshop -pquickshop quickshop
 ```
 
