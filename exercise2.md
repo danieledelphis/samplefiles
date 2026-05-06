@@ -78,4 +78,4 @@ A import completato, eseguite il file di verifica e controllate che tutto torni.
 
 Compilare il form con le risposte trovate durante l'esercizio:
 
-<LINK>
+https://forms.gle/27bQggGbEQL1XH2v9
