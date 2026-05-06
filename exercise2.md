@@ -37,14 +37,9 @@ Prima di importare serve il privilegio `FILE`. Connettetevi come **root**:
 docker exec -it quickshop mariadb -u root -prootpass quickshop
 ```
 
-Eseguite:
+Eseguite i comandi di grant trovati in uno dei file .sql.
 
-```sql
-source grant.sql
-exit
-```
-
-Da qui in avanti usate `mariadb.sh` (utente `quickshop`).
+Da qui in avanti usate l'utente `quickshop`.
 
 ---
 
